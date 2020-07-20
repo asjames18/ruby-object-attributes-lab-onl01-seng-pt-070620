@@ -12,4 +12,4 @@ def breed=(breed)
  end
 end
 
-fido.name = Fido
+Dog.name = "Fido"
